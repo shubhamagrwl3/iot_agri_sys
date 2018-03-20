@@ -2,7 +2,7 @@
 An IoT based agricultural monitoring system to provide efficient maintenance of crops.
 
 
-Step-1 Connect the hardware as per the circuit diagram(ckt_dia).
+Step-1 Connect the hardware as per the circuit diagram(ckt_dia.png).
 
 Step-2 Download and open the hackathon.ino file(sketch) in the arduino IDE.
 
